@@ -1,0 +1,33 @@
+/********************/
+/* BRANDING */
+/********************/
+
+/********************/
+/* UNIVERSAL CSS */
+/********************/
+* {
+	box-sizing: border-box;
+	/* The box-sizing propery is used to tell the browser what the sizing properties (width and height) should include; border-box includes content, padding, and border, but not the margin */
+	margin: 0;
+	padding: 0;
+}
+
+.top-container {
+	background-color: #2f2f2f;
+}
+.background-image {
+	background-image: url('../../imgs/pittsburgh.jpg');
+	background-position: top;
+	background-size: cover;
+	min-height: 500px;
+}
+
+header {
+	color: #fff;
+	text-align: center;
+}
+
+header h1 {
+	font-family: 'Pacifico';
+	font-size: 4em;
+}
