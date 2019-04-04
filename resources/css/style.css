@@ -12,6 +12,9 @@
 	padding: 0;
 }
 
+/********************/
+/* HERO / BACKGROUND IMAGE CSS */
+/********************/
 .top-container {
 	background-color: #2f2f2f;
 }
@@ -40,6 +43,10 @@ header h1 {
 .port-right {
 	text-align: left;
 }
+
+/********************/
+/* CREDENTIALS CSS */
+/********************/
 
 .container-master {
 	width: 75%;
